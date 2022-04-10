@@ -24,4 +24,5 @@ int fun(int n) {
 int main(void) {
 	printf("%d", fun(3));
 	return 0;
+	TEST
 }
